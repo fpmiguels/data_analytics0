@@ -4,5 +4,6 @@ Este projeto tem como objetivo analisar os dados de vendas de três supermercado
 
 Estrutura do Repositório
 
-supermarrket_sales.csv: Contém os arquivos de dados de vendas.
+supermarket_sales.csv: Contém os arquivos de dados de vendas.
+
 analise_vendas_supermercado.ipynb: Jupyter Notebooks usados para análise exploratória e visualizações.
